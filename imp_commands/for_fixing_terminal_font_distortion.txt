@@ -1,0 +1,2 @@
+# Install package for checking dpi value
+pacman -S xorg-xdpyinfo

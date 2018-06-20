@@ -1,0 +1,5 @@
+# Command to see all hardware devices. List all PCI devices.
+lspci -v
+
+# Comand to remove an application completely
+pacman -Rsn <name>
